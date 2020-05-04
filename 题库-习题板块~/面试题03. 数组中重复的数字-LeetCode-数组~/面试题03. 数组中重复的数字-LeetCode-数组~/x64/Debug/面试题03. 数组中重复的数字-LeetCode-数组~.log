@@ -1,0 +1,5 @@
+﻿  面试题03. 数组中重复的数字-LeetCode-数组~.cpp
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\题库-习题板块~\面试题03. 数组中重复的数字-LeetCode-数组~\面试题03. 数组中重复的数字-LeetCode-数组~\Solution.h(9,28): error C2131: 表达式的计算结果不是常数
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\题库-习题板块~\面试题03. 数组中重复的数字-LeetCode-数组~\面试题03. 数组中重复的数字-LeetCode-数组~\Solution.h(9,19): message : 因读取超过生命周期的变量而失败
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\题库-习题板块~\面试题03. 数组中重复的数字-LeetCode-数组~\面试题03. 数组中重复的数字-LeetCode-数组~\Solution.h(9,19): message : 请参见“nums”的用法
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\题库-习题板块~\面试题03. 数组中重复的数字-LeetCode-数组~\面试题03. 数组中重复的数字-LeetCode-数组~\Solution.h(15,1): error C3863: 不可指定数组类型“bool ['函数']”

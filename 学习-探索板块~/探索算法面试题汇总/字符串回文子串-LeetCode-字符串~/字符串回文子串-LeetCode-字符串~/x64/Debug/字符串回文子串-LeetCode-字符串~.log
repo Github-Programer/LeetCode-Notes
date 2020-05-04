@@ -1,0 +1,6 @@
+﻿  Solution.cpp
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\字符串回文子串-LeetCode-字符串~\字符串回文子串-LeetCode-字符串~\Solution.h(8,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串回文子串-LeetCode-字符串~.cpp
+E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\字符串回文子串-LeetCode-字符串~\字符串回文子串-LeetCode-字符串~\Solution.h(8,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  字符串回文子串-LeetCode-字符串~.vcxproj -> E:\王一涵programThomas\王一涵c++thomas\自主编程\LeetCode学习\字符串回文子串-LeetCode-字符串~\x64\Debug\字符串回文子串-LeetCode-字符串~.exe
