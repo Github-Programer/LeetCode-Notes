@@ -131,6 +131,10 @@ Thomas学编程！
 |13.罗马数字转整数|简单|:heavy_check_mark:|罗马数字转整数-数学~3|:star::star::star:|
 |9.回文数|简单|:heavy_check_mark:|回文数-力扣-LeetCode|:star::star:|
 |268.缺失数字|简单|:heavy_check_mark:|缺失数字-数学~3|:star::star::star:|
+|67.二进制求和|简单|:heavy_check_mark:|二进制求和-数学~3|:star::star::star:|
+|231.2的幂|简单|:heavy_check_mark:|2的幂-数学~1|:star:|
+|326.3的幂|简单|:heavy_check_mark:|2的幂-数学~1 备注：改进2的幂就行|:star:|
+|7.整数反转|简单|:heavy_check_mark:|整数反转-数学~2|:star::star:|
 
 ## :sunny:贡献:sunny:
 
