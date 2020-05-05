@@ -121,11 +121,16 @@ Thomas学编程！
 
 这个我会刷出一个放一个：
 
-|题目|难度|状态|代码位置|
-|--|--|--|--|
-|633. 平方数之和|简单|:heavy_check_mark:|平方数之和-二分查找_循环~3|
-|1281.整数的各位积和之差|简单|:heavy_check_mark:|整数的各位积和之差-数学~2|
-|面试题17.打印从1到最大的n位数|简单|:heavy_check_mark:|打印从1到最大的n位数-数学~2|
+|题目|难度|状态|代码位置|对我来说的困难程度|
+|--|--|--|--|--|
+|633. 平方数之和|简单|:heavy_check_mark:|平方数之和-二分查找_循环~3|:star::star::star:|
+|1281.整数的各位积和之差|简单|:heavy_check_mark:|整数的各位积和之差-数学~2|:star::star:|
+|面试题17.打印从1到最大的n位数|简单|:heavy_check_mark:|打印从1到最大的n位数-数学~2|:star::star:|
+|1323.6 和 9 组成的最大数字|简单|:heavy_check_mark:|6 和 9 组成的最大数字-数学~2|:star::star:|
+|258.各位相加|简单|:heavy_check_mark:|各位相加-数学~2|:star::star:|
+|13.罗马数字转整数|简单|:heavy_check_mark:|罗马数字转整数-数学~3|:star::star::star:|
+|9.回文数|简单|:heavy_check_mark:|回文数-力扣-LeetCode|:star::star:|
+|268.缺失数字|简单|:heavy_check_mark:|缺失数字-数学~3|:star::star::star:|
 
 ## :sunny:贡献:sunny:
 
